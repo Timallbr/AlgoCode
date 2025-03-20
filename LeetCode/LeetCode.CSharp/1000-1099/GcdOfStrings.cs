@@ -1,6 +1,10 @@
 ﻿
 namespace LeetCode.CSharp._1000_1099
 {
+    /// <summary>
+    /// <para>1071</para>
+    /// <para>https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&amp;envId=leetcode-75</para>
+    /// </summary>
     public class GcdOfStrings
     {
         public static string Process(string str1, string str2)

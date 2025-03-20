@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace LeetCode.CSharp._1400_1499
 {
+    /// <summary>
+    /// <para>1431</para>
+    /// <para>https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/?envType=study-plan-v2&amp;envId=leetcode-75</para>
+    /// </summary>
     public class GreatestNumberOfCandies
     {
         public static IList<bool> Process(int[] candies, int extraCandies)

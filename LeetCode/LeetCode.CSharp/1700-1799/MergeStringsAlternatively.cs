@@ -2,6 +2,10 @@
 
 namespace LeetCode.CSharp._1700_1799
 {
+    /// <summary>
+    /// <para>1768</para>
+    /// <para>https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&amp;envId=leetcode-75</para>
+    /// </summary>
     public class MergeStringsAlternately
     {
         public static string MergeAlternately(string word1, string word2)
