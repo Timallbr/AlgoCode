@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LeetCode.CSharp._0000_0999._0200_0299
+﻿namespace LeetCode.CSharp._0000_0999._0200_0299
 {
     /// <summary>
     /// <para>238</para>

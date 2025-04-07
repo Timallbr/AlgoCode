@@ -9,7 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="0000-0999\0000-0099\" />
     <Folder Include="0000-0999\0500-0599\" />
     <Folder Include="0000-0999\0700-0799\" />
     <Folder Include="0000-0999\0800-0899\" />

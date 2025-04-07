@@ -1,0 +1,31 @@
+﻿using HackerRank.CSharp.OneWeek.DayOne;
+using HackerRank.CSharp.OneWeek.DayTwo;
+
+NumTypeRatio.Process([-4, 3, -9, 0, 4, 1]);
+
+MinMaxSum.Process([1, 3, 5, 7, 9]);
+
+MilitaryTimeConversion.Process("12:01:00AM");
+
+
+DiagonalDifference.Process(new List<List<int>> 
+{
+    new List<int> { 11, 2, 4 },
+    new List<int> { 4, 5, 6 },
+    new List<int> { 10, 8, -12 },
+});
+
+
+CountingSort.Process(new List<int>
+{
+    63, 25, 73, 1, 98, 73, 56, 84, 86, 57, 16, 83, 8, 25, 81, 56, 9, 53, 98, 67, 99, 12, 83, 89, 80, 91, 39, 86, 76, 85, 74, 39, 25, 90, 59, 10, 94, 32, 44, 3, 89, 30, 27, 79, 46, 96, 27, 32, 18, 21, 92, 69, 81, 40, 40, 34, 68, 78, 24, 87, 42, 69, 23, 41, 78, 22, 6, 90, 99, 89, 50, 30, 20, 1, 43, 3, 70, 95, 33, 46, 44, 9, 69, 48, 33, 60, 65, 16, 82, 67, 61, 32, 21, 79, 75, 75, 13, 87, 70, 33
+});
+
+
+FlipTheMatrix.Process(new List<List<int>>
+{
+    new List<int> { 112, 42, 83, 199 },
+    new List<int> { 56, 125, 56, 49 },
+    new List<int> { 15, 78, 101, 43 },
+    new List<int> { 62, 98, 114, 108 }
+});
